@@ -27,7 +27,7 @@ public class ExpandingCircleAnimationDrawable extends Drawable implements Animat
         mPaint.setStyle(Paint.Style.STROKE);
         mPaint.setColor(0xfff0000);
         mPaint.setAntiAlias(true);
-        mPaint.setStrokeWidth(2);
+        mPaint.setStrokeWidth(5);
     }
 
     @Override
